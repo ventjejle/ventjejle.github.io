@@ -25,8 +25,11 @@ github_username:  ventjejle
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-architect
+repository: ventjejle/ventjejle.github.io
 gems:
   - jekyll-feed
+  - github-pages
+  - wdm
 exclude:
   - Gemfile
   - Gemfile.lock
