@@ -8,7 +8,9 @@ categories: machine learning
 Ketika kita akan melakukan analisis data, entah itu prediksi atau klasifikasi, kita membutuhkan data yang cukup banyak. Hal itu untuk akan membantu kita untuk memenuhi signifikan statistik untuk pengujian hipotesis kita nantinya. Makin banyak data makin baik, walau ketika belajar Confidence Level dan Interval ternyata pengujian terhadap sampel random lebih baik [sekitar 10% dari populasi](https://www.qualtrics.com/blog/determining-sample-size/).
 
 Misalnya, kita sudah menentukan populasi, Confidence Level, dan Confidence Interval, maka kita bisa menentukan sampel dan melakukan pengambilan data. Ternyata data yang kita dapat memiliki banyak fitur atau dimensi. Contohnya data di bawah ini:
-![Human Development Index based on GDP](http://thumbnails116.imagebam.com/51544/a7aa47515437701.jpg)  
+
+![Human Development Index based on GDP](http://thumbnails116.imagebam.com/51544/a7aa47515437701.jpg)
+
 Kesusahan akan terjadi ketika kita akan melakukan analisis terhadap data di atas. Jumlah fitur atau dimensinya cukup banyak, yaitu 12. Untuk melakukan prediksi atau klasifikasi terhadap data dengan lebh dari 3 dimensi saja sudah lumayan memakan waktu dan biaya komputasi, apalagi dengan 12 dimensi.
 
 _Dimensionality reduction_ adalah konsep untuk menemukan pola dalam sehingga kita bisa melakukan pengurangan (reduksi) terhadap jumlah dimensi dengan tetap mempertahankan informasi relevan yang ada dalam data. Keluaran yang diinginkan adalah kita mentransformasikan data berdimensi _n_ menjadi data berdimensi _k_. Tujuan kita melakukan dimensionality reduction, adalah: (a) menurunkan biaya komputasi yang dibutuhkan ketika melakukan inferensi lanjutan; (b) mempermudah ketika akan melakukan visualisasi data, tentu lebih mudah melakukan visualisasi data berdimensi 3 ke bawah.
