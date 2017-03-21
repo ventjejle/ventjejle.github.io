@@ -29,7 +29,7 @@ repository: ventjejle/ventjejle.github.io
 gems:
   - jekyll-feed
   - github-pages
-  - wdm
+  - jekyll-github-metadata
 exclude:
   - Gemfile
   - Gemfile.lock
