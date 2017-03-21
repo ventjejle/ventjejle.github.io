@@ -17,7 +17,7 @@ title: Ventje JLE
 email: ventje.engel@gmail.coom
 description: > # this means to ignore newlines until "baseurl:"
   Tutorial machine learning, data science, dan internet of things
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ventjejle.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ventje_engel
 github_username:  ventjejle
