@@ -24,7 +24,7 @@ github_username:  ventjejle
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
 gems:
   - jekyll-feed
 exclude:
