@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "Dimensionality Reduction"
+date:   2016-11-18 11:00:49 +0700
+categories: machine learning
+---
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
