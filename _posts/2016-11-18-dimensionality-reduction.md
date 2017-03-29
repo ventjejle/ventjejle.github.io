@@ -311,7 +311,7 @@ plt.show()
 ```
 
 
-![png](http://www.imagebam.com/image/3662c4540693068)
+![png](http://117.imagebam.com/download/IowGP3g8P4vfgHRaTDnHrw/54070/540693068/Dimensionality_Reduction_11_0.png)
 
 
 Dengan memperhatikan hasil plot di atas, tampak ada 2 eigenvalue yang cukup besar dan signifikan. Sedangkan eigenvalue ketiga tampak berbeda cukup jauh dengan 2 eigenvalue teratas. Coba kita lihat eigenvalue dengan lebih dekat. 
@@ -417,7 +417,7 @@ plt.show()
 ```
 
 
-![png](http://www.imagebam.com/image/1b289e540693071)
+![png](http://117.imagebam.com/download/v_-RG2aE1iDwnhZzzFGpvA/54070/540693071/Dimensionality_Reduction_19_0.png)
 
 
 # Makna Principal Component Analysis (PCA)
