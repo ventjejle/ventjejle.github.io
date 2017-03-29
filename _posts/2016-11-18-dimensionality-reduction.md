@@ -2,7 +2,7 @@
 layout: default
 title:  "Dimensionality Reduction"
 date:   2016-11-18 11:00:49 +0700
-categories: machine learning
+categories: machine-learning
 ---
 # Pendahuluan
 Ketika kita akan melakukan analisis data, entah itu prediksi atau klasifikasi, kita membutuhkan data yang cukup banyak. Hal itu untuk akan membantu kita untuk memenuhi signifikan statistik untuk pengujian hipotesis kita nantinya. Makin banyak data makin baik, walau ketika belajar Confidence Level dan Interval ternyata pengujian terhadap sampel random lebih baik [sekitar 10% dari populasi](https://www.qualtrics.com/blog/determining-sample-size/).
@@ -311,7 +311,7 @@ plt.show()
 ```
 
 
-![png]({{site.baseurl}}/Dimensionality_Reduction_files/Dimensionality_Reduction_11_0.png?raw=true)
+![png](http://www.imagebam.com/image/3662c4540693068)
 
 
 Dengan memperhatikan hasil plot di atas, tampak ada 2 eigenvalue yang cukup besar dan signifikan. Sedangkan eigenvalue ketiga tampak berbeda cukup jauh dengan 2 eigenvalue teratas. Coba kita lihat eigenvalue dengan lebih dekat. 
@@ -417,7 +417,7 @@ plt.show()
 ```
 
 
-![png](Dimensionality_Reduction_files/Dimensionality_Reduction_19_0.png?raw=true)
+![png](http://www.imagebam.com/image/1b289e540693071)
 
 
 # Makna Principal Component Analysis (PCA)
